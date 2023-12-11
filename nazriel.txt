@@ -1,0 +1,10 @@
+===============================
+Timestamp: 11/12/2023 15:12:41
+Nama Penyewa: Nazriel
+Nomor Telpon Penyewa: 87810820414
+Mobil yang disewa: Rush
+Total Harga Sewa Mobil: Rp1.000.000,00
+Jumlah Hari: 5
+Jumlah Pembayaran: Rp1.000.000,00
+Kembalian: Rp0,00
+===============================

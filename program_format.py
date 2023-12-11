@@ -13,6 +13,5 @@ class Format:
         # Metode untuk memformat jumlah uang dengan menggunakan locale untuk pemisah ribuan
         return locale.currency(jumlah, grouping=True)
 
-    def format_waktu(self, waktu, format='%Y-%m-%d %H:%M:%S'):
-        # Metode untuk memformat objek datetime sesuai dengan format yang diinginkan
+    def format_waktu(self, waktu, format='%d/%m/%Y %H:%M:%S'):
         return waktu.strftime(format)
